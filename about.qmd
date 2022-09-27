@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+Questions / Comments?
 
-```{r}
-1 + 1
-```
+- [ben@ecoquants.com](mailto:ben@ecoquants.com)

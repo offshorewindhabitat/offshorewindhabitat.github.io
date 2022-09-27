@@ -5,7 +5,7 @@ project:
   - "/.nojekyll"
 
 website:
-  title: "www"
+  title: "OffshoreWindHabitat.info"
   navbar:
     left:
       - href: index.qmd

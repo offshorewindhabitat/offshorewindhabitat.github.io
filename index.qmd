@@ -1,11 +1,9 @@
 ---
-title: "www"
+title: "Welcome!"
 ---
 
-This is a Quarto website.
+## Atlas
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+- [shiny.offshorewindhabitat.info/atlas](https://shiny.offshorewindhabitat.info/atlas)
+  ![](/images/offhab_overview_label-hover.png)
+  
