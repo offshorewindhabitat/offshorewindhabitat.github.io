@@ -8,7 +8,7 @@ The intent of this project is to develop a methodology that uses available data 
 
 ## Atlas
 
--   [shiny.offshorewindhabitat.info/atlas](https://shiny.offshorewindhabitat.info/atlas) ![](/images/offhab_overview_label-hover.png)
+-   [shiny.offshorewindhabitat.info/atlas](https://shiny.offshorewindhabitat.info/atlas) ![](/44ce7cff6e9a3ce81a45412598fcb96fcd5108bc/images/offhab_overview_label-hover.png)
 
 ## Documents
 
