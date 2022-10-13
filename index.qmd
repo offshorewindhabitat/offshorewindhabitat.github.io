@@ -1,9 +1,0 @@
----
-title: "Welcome!"
----
-
-## Atlas
-
-- [shiny.offshorewindhabitat.info/atlas](https://shiny.offshorewindhabitat.info/atlas)
-  ![](/images/offhab_overview_label-hover.png)
-  

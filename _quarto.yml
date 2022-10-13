@@ -9,15 +9,13 @@ website:
   title: "OffshoreWindHabitat.info"
   navbar:
     left:
-      - href: index.qmd
+      - href: /7319ea8f88497a65f3888850e7592e21ce668d9b/index.qmd
         text: Home
-      - about.qmd
+      - href: /7319ea8f88497a65f3888850e7592e21ce668d9b/about.qmd
+        text: About
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-

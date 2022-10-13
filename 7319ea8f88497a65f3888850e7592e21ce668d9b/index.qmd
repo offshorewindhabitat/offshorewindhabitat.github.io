@@ -1,0 +1,29 @@
+---
+pagetitle: "Home"
+---
+
+## Goal
+
+The intent of this project is to develop a methodology that uses available data and information to identify the potential marine habitat conservation targets within areas that are actively being developed, permitted, leased, or considered for offshore wind energy. This includes assessing the relative habitat value within offshore wind energy areas as well as determining the uniqueness and relative regional and ecosystem level value of those areas.  The outcomes of this project will be a biological, ecological, and oceanographic assessment of at least three geographically distinct offshore wind energy areas, the identification of potential high value conservation targets within those areas, and methods for determining the relative value or uniqueness of those targets at the regional and ecological scales.
+
+## Atlas
+
+-   [shiny.offshorewindhabitat.info/atlas](https://shiny.offshorewindhabitat.info/atlas) ![](/images/offhab_overview_label-hover.png)
+
+## Documents
+
+-   [Kickoff](https://drive.google.com/file/d/1MR7fO9I2-VLgWY9yR-7z49v84Fjmmsb8/view?usp=sharing)
+
+-   [Methods](https://drive.google.com/file/d/1S0aCK7EqNKzDyxYgqmoZ7j5FP1LKK0h0/view?usp=sharing)
+
+    -   [Methods - Responses](https://drive.google.com/file/d/1rpdpBL9qlIPTCU3A0lEztM4H_075UKLa/view?usp=sharing)
+
+## Other
+
+### Code
+
+-   [github.com/ecoquants/offhab-scripts](https://github.com/ecoquants/offhab-scripts)
+
+### Literature
+
+-   [offhab \| Zotero](https://www.zotero.org/groups/4747727/offhab/library)\

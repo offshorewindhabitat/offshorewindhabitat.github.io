@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "The intent of this project is to develop a methodology that uses available data and information to identify the potential marine habitat conservation targets within areas that are actively being developed, permitted, leased, or considered for offshore wind energy. This includes assessing the relative habitat value within offshore wind energy areas as well as determining the uniqueness and relative regional and ecosystem level value of those areas.  The outcomes of this project will be a biological, ecological, and oceanographic assessment of at least three geographically distinct offshore wind energy areas, the identification of potential high value conservation targets within those areas, and methods for determining the relative value or uniqueness of those targets at the regional and ecological scales."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ben@ecoquants.com"
+  },
+  {
+    "objectID": "index.html#atlas",
+    "href": "index.html#atlas",
+    "title": "Welcome!",
+    "section": "Atlas",
+    "text": "Atlas\n\nshiny.offshorewindhabitat.info/atlas"
+  },
+  {
+    "objectID": "index.html#documents",
+    "href": "index.html#documents",
+    "title": "Welcome!",
+    "section": "Documents",
+    "text": "Documents\n\nKickoff\nMethods\n\nMethods - Responses"
+  },
+  {
+    "objectID": "index.html#other",
+    "href": "index.html#other",
+    "title": "Welcome!",
+    "section": "Other",
+    "text": "Other\n\nCode\n\ngithub.com/ecoquants/offhab-scripts\n\n\n\nLiterature\n\noffhab | Zotero"
+  },
+  {
+    "objectID": "index.html#goal",
+    "href": "index.html#goal",
+    "title": "Welcome!",
+    "section": "Goal",
+    "text": "Goal\nThe intent of this project is to develop a methodology that uses available data and information to identify the potential marine habitat conservation targets within areas that are actively being developed, permitted, leased, or considered for offshore wind energy. This includes assessing the relative habitat value within offshore wind energy areas as well as determining the uniqueness and relative regional and ecosystem level value of those areas.  The outcomes of this project will be a biological, ecological, and oceanographic assessment of at least three geographically distinct offshore wind energy areas, the identification of potential high value conservation targets within those areas, and methods for determining the relative value or uniqueness of those targets at the regional and ecological scales."
+  }
+]
