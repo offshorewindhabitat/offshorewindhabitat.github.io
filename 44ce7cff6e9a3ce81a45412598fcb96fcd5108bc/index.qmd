@@ -22,7 +22,7 @@ The intent of this project is to develop a methodology that uses available data 
 
 ### Code
 
--   [github.com/ecoquants/offhab-scripts](https://github.com/ecoquants/offhab-scripts)
+-   [offhab-scripts \| Github](https://github.com/ecoquants/offhab-scripts)
 
 ### Literature
 

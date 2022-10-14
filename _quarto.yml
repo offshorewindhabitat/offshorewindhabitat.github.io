@@ -9,9 +9,9 @@ website:
   title: "OffshoreWindHabitat.info"
   navbar:
     left:
-      - href: /44ce7cff6e9a3ce81a45412598fcb96fcd5108bc/index.qmd
+      - href: 44ce7cff6e9a3ce81a45412598fcb96fcd5108bc/index.qmd
         text: Home
-      - href: /44ce7cff6e9a3ce81a45412598fcb96fcd5108bc/about.qmd
+      - href: 44ce7cff6e9a3ce81a45412598fcb96fcd5108bc/about.qmd
         text: About
 
 format:
